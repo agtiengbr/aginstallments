@@ -1,0 +1,84 @@
+.list-group span{
+    font-weight: 400;
+    border-radius: 3px;
+    font-size: inherit;
+    padding: .25rem .375rem;
+    margin: .125rem;
+    color: #fff;
+    white-space: nowrap;
+}
+.status0{
+    background-color:#4169E1;
+}
+.status1{
+    background-color:#DC143C;
+}
+.status2{
+    background-color:#32CD32;
+}
+.statuses{
+    margin-top:2vmin;
+}
+@media screen and (max-width: 767px){
+    #wrapper .container #main #content {
+        box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2) !important;
+        background-color: #fff !important;
+        border-radius: 0 !important;
+        border: 1px solid rgba(0,0,0,.125) !important;
+    }
+    .order-items .order-item{
+        margin-bottom:2vmin;
+        padding-bottom:2vmin;
+        border-bottom:1px solid #ccc;
+        width: 114%;
+    }
+    .list-group tr{
+        font-weight:normal;
+        font-family: 'Arial';
+        text-align: justify;
+    }
+    .order-items{
+        background-color:white;
+        width:95%;
+    }
+
+    .wrapper .container #main .card {
+        /* box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2) !important; */
+        background-color: #fff !important;
+        border-radius: 0 !important;
+        border: 1px solid rgba(0,0,0,.125) !important;
+    }
+    .link{
+        text-align:right;
+        float: right;
+        margin-right: 5vmin;
+    }
+    .list-group span{
+        font-weight: 400;
+        border-radius: 3px;
+        font-size: inherit;
+        padding: .25rem .375rem;
+        margin: .125rem;
+        color: #fff;
+        white-space: nowrap;
+    }
+    .status0{
+        background-color:#4169E1;
+    }
+    .status1{
+        background-color:#DC143C;
+    }
+    .status2{
+        background-color:#32CD32;
+    }
+    .page-order-detail .box{
+        box-shadow:none !important;
+        background: #fff;
+        margin-bottom: 1rem;
+        margin-right:0px !important;
+        padding-left:1rem;
+    }
+    .page-order-detail .box h3{
+        padding-left:1rem;
+    }
+}
