@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
     <name>aginstallments</name>
-    <displayName><![CDATA[Pagamento via Carn&ecirc;s]]></displayName>
-    <version><![CDATA[1.0.0]]></version>
-    <description><![CDATA[Esse m&oacute;dulo permite a gera&ccedil;&atilde;o de carn&ecirc;s para as vendas de sua loja PrestaShop.]]></description>
+    <displayName><![CDATA[Pagamento via Carnês]]></displayName>
+    <version><![CDATA[1.1.11]]></version>
+    <description><![CDATA[Esse módulo permite a geração de carnês para as vendas de sua loja PrestaShop.]]></description>
     <author><![CDATA[AGTI]]></author>
     <tab><![CDATA[]]></tab>
     <is_configurable>1</is_configurable>
     <need_instance>1</need_instance>
-	<limited_countries></limited_countries>
+    <limited_countries></limited_countries>
 </module>
