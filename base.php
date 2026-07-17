@@ -55,7 +55,7 @@ class BaseAgInstallments extends AgPaymentModule
     public function __construct()
     {
         $this->name                   = 'aginstallments';
-        $this->version                = '1.1.11';
+        $this->version                = '1.1.12';
         $this->bootstrap              = true;
         $this->author                 = 'AGTI';
         $this->need_instance          = 1;
